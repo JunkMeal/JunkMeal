@@ -1,1 +1,3 @@
-discord: JunkMeal#5421
+<div align="center">
+    ![banner](./images/junkmeal.png)
+</div>
