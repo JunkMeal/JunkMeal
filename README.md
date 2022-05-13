@@ -2,16 +2,16 @@
     <img src="images/junkmeal.png" alt="logo" width="400" height="200">
 </div>
 
-### Programming languages
+#### Programming languages
 * Node.js
 * Java
 * C++
 
-### Editors
+#### Editors
 * Visual Studio Code
 * Netbeans
 * IntelliJ IDEA
 
-### Contact
+#### Contact
 * Email: no
 * Discord: JunkMeal#5421
