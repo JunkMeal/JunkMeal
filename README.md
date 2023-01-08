@@ -1,1 +1,1 @@
-bruh
+![JunkMeal](/images/junkmeal.png)
